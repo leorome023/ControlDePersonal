@@ -1,6 +1,3 @@
 # CONTROL DE PERSONAL TEMPERATURAS ABATIDAS
-OBJETIVO 
-Garantizar el bienestar del personal ante temperaturas abatidas.
-DESCRIPCION 
-En varias fábricas (sobre todo alimenticias) hacen uso de cámaras frías que son como congeladores gigantes donde tienen producto y necesitan que la gente esté adentro de la cámara realizando distintas actividades; debido a las bajas temperaturas que hay dentro de la cámara, las personas solo se pueden quedar cierta cantidad de tiempo ahí pero no se lleva un control para cada persona.
-La idea está enfocada a esa parte, hacer en un circuito que en base a ciertos datos de entrada (imc, condiciones médicas, etc.) nos pueda dar el tiempo que esa persona en cuestión puede estar dentro de la cámara, este control se haría con un rfid que nos arroje en qué momento ingresó la persona y que comience a tomar el tiempo, en cuanto esté cerca del límite de tiempo le arroje una alarma que le diga que se acerque a la salida, así mismo se hará uso del sensor de ritmo cardíaco y pulsaciones por si detecta niveles preocupantes le avisara que saliera del área y un sensor que detecte el amoniaco porque es algo común que se den fugas de amoniaco, como es un gas pesado tiende a estar por el piso y no lo podemos detectar hasta que ya está algo contaminada el área.
+descripcion 
+es un sisteme que controla los niveles 
