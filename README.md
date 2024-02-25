@@ -1,6 +1,6 @@
-#CONTROL DE PERSONAL DE TEMPERATURAS ABATIDAS
-OBJETIVO:
-Garantizar el bienestar del personal ante temperaturas abatidas.
+#CONTROL DE PERSONAL DE TEMPERATURAS ABATIDAS<br />
+OBJETIVO:<br />
+Garantizar el bienestar del personal ante temperaturas abatidas.<br />
 DESCRIPCIÓN:
 Sistema de control encargado de regular la exposición del personal ante temperaturas abatidas, tomando en cuenta la salud de cada persona con base en el IMC, condiciones médicas relevantes, así como posibles daños a la salud a causa de gases peligrosos.
 BENEFICIOS:
